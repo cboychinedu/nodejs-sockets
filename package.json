@@ -1,0 +1,15 @@
+{
+  "name": "sockets",
+  "version": "1.0.0",
+  "description": "An app for socket messaging ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mbonu Chinedum",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.2"
+  }
+}
